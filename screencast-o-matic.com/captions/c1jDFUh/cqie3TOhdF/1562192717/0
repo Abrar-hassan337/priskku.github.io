@@ -1,0 +1,197 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.400
+(Music)
+
+2
+00:00:03.400 --> 00:00:05.600
+Here's how to add text to your recording.
+
+3
+00:00:05.600 --> 00:00:10.854
+First, go to the spot on the timeline where you
+want your overlay text to appear.
+
+4
+00:00:10.920 --> 00:00:18.469
+Click "Tools" select "Overlay" and then the "Text" option or
+you can press the "O" key and then the "T" ...
+
+5
+00:00:18.469 --> 00:00:18.691
+key
+
+6
+00:00:18.840 --> 00:00:22.850
+You can drag the text box to position it around
+your video.
+
+7
+00:00:22.920 --> 00:00:27.386
+To add text, click in the box and type your
+text.
+
+8
+00:00:27.480 --> 00:00:32.359
+Auto Size enables you to change the size of the
+box and automatically scales the font size in proportion to ...
+
+9
+00:00:32.359 --> 00:00:33.187
+the text box area.
+
+10
+00:00:36.440 --> 00:00:44.400
+By clicking here, you'll turn off Auto Size.
+
+11
+00:00:47.200 --> 00:00:54.118
+You can customize the text box to your own size
+dimensions without scaling the font size. Just drag the edges ...
+
+12
+00:00:54.118 --> 00:00:56.231
+or corners to customize the size.
+
+13
+00:00:56.360 --> 00:01:00.360
+Now, let's set some style properties to the overlay.
+
+14
+00:01:00.360 --> 00:01:11.841
+You can choose the color of your text by clicking
+here. You can also use your own custom color and ...
+
+15
+00:01:11.841 --> 00:01:17.523
+adjust the opacity or transparency of your text.
+
+16
+00:01:17.760 --> 00:01:26.294
+To choose a different font, click here and a list
+of available fonts will display.
+
+17
+00:01:26.400 --> 00:01:33.705
+To adjust the size of your font, you can move
+the slider to your desired size.
+
+18
+00:01:36.960 --> 00:01:50.720
+With just one click, you can adjust the font style.
+You can choose to use bold, italics, an underline or ...
+
+19
+00:01:50.720 --> 00:01:52.745
+add a strike through.
+
+20
+00:01:53.000 --> 00:02:05.392
+This allows you to adjust the alignment of your text.
+Choose from left, centered, right or justified.
+
+21
+00:02:08.800 --> 00:02:17.640
+You can also adjust to top, middle or bottom alignment.
+
+22
+00:02:17.640 --> 00:02:21.150
+To adjust the background of your text box, click on
+the background tab.  You can uncheck the box if ...
+
+23
+00:02:21.150 --> 00:02:22.368
+you decide you don't want a color.
+
+24
+00:02:22.440 --> 00:02:25.747
+To add a color, click on 'Color' and choose your
+desired color.  You can add your own custom color ...
+
+25
+00:02:25.747 --> 00:02:26.531
+and adjust the opacity.
+
+26
+00:02:26.600 --> 00:02:35.434
+To add a shadow, you can choose between a fuzzy
+or solid shadow.  You can also click none to ...
+
+27
+00:02:35.434 --> 00:02:36.405
+remove it.
+
+28
+00:02:39.760 --> 00:02:46.935
+By using 'Callout,' you'll be able to add a pointer
+to your text box.  This is great to use ...
+
+29
+00:02:46.935 --> 00:02:51.400
+if you are looking to point out a section of
+your screen.
+
+30
+00:02:51.640 --> 00:02:55.683
+When you done with the style of your text, click
+done.
+
+31
+00:02:55.760 --> 00:03:07.275
+Or you can adjust by clicking on the circle above
+the box to rotate it.
+
+32
+00:03:07.440 --> 00:03:15.342
+You can reuse style settings by clicking this button which
+will show previous styles you used, so you can easily ...
+
+33
+00:03:15.342 --> 00:03:18.617
+switch back to a particular style combination.
+
+34
+00:03:21.920 --> 00:03:28.710
+By default, the overlay will have a transition to fade
+in and out. You can edit the transition by clicking ...
+
+35
+00:03:28.710 --> 00:03:33.366
+on these buttons. You have the option to fade, pop
+or have no transition.
+
+36
+00:03:33.560 --> 00:03:41.128
+To choose the section of the video your overlay appears,
+drag these bars over the timeline to select the start ...
+
+37
+00:03:41.128 --> 00:03:42.101
+and end point.
+
+38
+00:03:42.240 --> 00:03:49.497
+And if that looks good, press the OK button or
+the Enter key to save it.
+
+39
+00:03:49.600 --> 00:03:54.215
+After the overlay text is added to your video, a
+colored span will show on your timeline to indicate the ...
+
+40
+00:03:54.215 --> 00:03:59.100
+placement of this overlay. You can edit the overlay by
+clicking on this spot on the timeline, click this icon, ...
+
+41
+00:03:59.100 --> 00:04:03.805
+and you will be brought back to the overlay controls.
+Or you can remove the overlay by clicking this icon.
+
+42
+00:04:03.805 --> 00:04:08.286
+For more tutorials, head to our website.  Create, share
+and experience video with Screencast-O-Matic!
+
